@@ -1,3 +1,3 @@
 import rana
-rana. Main ()
+rana.Main ()
         
