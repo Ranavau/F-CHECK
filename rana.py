@@ -1,2 +1,1 @@
-import rana
-        
+import Main()
