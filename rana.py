@@ -1,1 +1,2 @@
-import rk1
+import rana
+rana.rk1()
