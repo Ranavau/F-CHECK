@@ -1,2 +1,2 @@
-import Main
-Main()
+import rana
+rana. Main()
