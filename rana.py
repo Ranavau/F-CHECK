@@ -1,2 +1,2 @@
 import rana
-rana.rk1()
+rana.rana_nob()
